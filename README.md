@@ -5,7 +5,7 @@
 - 🌆 Based in Atlanta, Ga.
 - 🌟 Currently learning Python, HTML, CSS, and Javascript while working as a Product Analyst.
 - 💌 Open to study partners.
-- 🍃 Ideas of future projects I'd like to create.
+<!---- - 🍃 Ideas of future projects I'd like to create. --->
 
 ### Socials
 
